@@ -1,0 +1,4 @@
+rclone.conf
+venv/
+logs/
+
